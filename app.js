@@ -962,6 +962,7 @@ console.log(calc.add(2, 3))
 console.log(calc.subtract(8, 2))
 console.log(calc.multiply(7, 2))
 console.log(calc.divide(81, 9))
+console.log(calc.square(10))
 
 
 
